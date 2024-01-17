@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Phyton, SQL, Power BI e Kotlin**
 
-- 💬 Me pergunte sobre **Excel, Power BI**
+- 💬 Me pergunte sobre **Excel, Power BI e Phyton**
 
 - 📫 Você me acha através do e-mail **lopes.lucas128@gmail.com**
 
