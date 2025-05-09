@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas Lopes</h1>
 <h3 align="center">PT/BR</h3>
-<h3 align="center">Apaixonado por ciência de dados e dev. Mobile</h3>
+<h3 align="center">Apaixonado por ciência de dados e ANALISTA DE DADOS</h3>
 
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados **Adventure Works**
 
-- 🌱 I’m currently learning **Phyton, SQL, Power BI e Kotlin**
+- 🌱 I’m currently learning **Phyton, SQL, TABLEU e Kotlin**
 
-- 💬 Me pergunte sobre **Excel, Power BI e Phyton**
+- 💬 Me pergunte sobre **Excel, Power BI, Phyton e SQL**
 
 - 📫 Você me acha através do e-mail **lopes.lucas128@gmail.com**
 
